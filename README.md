@@ -2,4 +2,4 @@
 Blueprint for my containerized development environment
 
 How to I push this Dockerfile to Docker Hub?
-- `./deploy.sh`
+- `./push.sh`
